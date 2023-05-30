@@ -2,6 +2,19 @@
 
 可作为CommonAPI SomeIP的使用示例
 
+版本信息
+
+| 名称                 | 版本信息 |
+| -------------------- | -------- |
+| vsomeip              | v3.3.0   |
+| capicxx-core-runtime | v3.2.0   |
+| capicxx-core-tools   | v3.2.0.1 |
+| capicxx-someip-tools | v3.2.0.1 |
+
+说明：
+
+本demo以本机通信为主，并非双机通信，此外部分信息，被写在代码中，灵活性不足。
+
 #### Dependencies
 
 安装依赖：
@@ -87,7 +100,7 @@ OpenJDK 64-Bit Server VM (build 25.40-b08, mixed mode)
 
 ```
 
-下载 jdk-8u311-linux-x64.tar.gz
+或者下载 jdk-8u311-linux-x64.tar.gz
 
 [ jdk-8u311-linux-x64.tar.gz]([Java Archive Downloads - Java SE 8u211 and later (oracle.com)](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html))
 
@@ -172,4 +185,8 @@ make
 备注：
 
 将会提供在腾讯云ubuntu 20.04上编译完整的包
+
+[飞书文档](https://t3z3v2fg00.feishu.cn/docx/VeJMdVEeFotPMax7u5xctbKlnhg?from=from_copylink)
+
+[123文档](https://www.123pan.com/s/WnbtVv-Kk0I.html)  提取码:X4l2
 
