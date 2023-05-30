@@ -41,6 +41,10 @@ mkdir  someip
 
 编译和安装 vsomeip：
 
+依赖：
+
+`sudo apt-get install asciidoc source-highlight doxygen graphviz`
+
 ```bash
 git clone https://github.com/GENIVI/vsomeip.git
 cd vsomeip
