@@ -219,3 +219,16 @@ Write Commonapi Configuration Files
 Logging
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/logging_01.png)
+
+Default
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/default_01.png)
+
+Proxy
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/proxy_01.png)
+
+Stub
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/stub_01.png)
+
