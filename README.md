@@ -188,13 +188,13 @@ make
 
 备注：
 
-1.将会提供在腾讯云ubuntu 20.04上编译完整的包
+**1.将会提供在腾讯云ubuntu 20.04上编译完整的包**
 
 [飞书文档](https://t3z3v2fg00.feishu.cn/docx/VeJMdVEeFotPMax7u5xctbKlnhg?from=from_copylink)
 
 [123文档](https://www.123pan.com/s/WnbtVv-Kk0I.html)  提取码:X4l2
 
-2.以下截图来自doc/commsomeip.pdf
+**2.以下截图来自doc/commsomeip.pdf**
 
 Compile Runtime
 
@@ -231,4 +231,20 @@ Proxy
 Stub
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/stub_01.png)
+
+New Code Generator Command-line Paramters
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/New_Code_Generator_Command_line_Paramters_01.png)
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/New_Code_Generator_Command_line_Paramters_02.png)
+
+
+
+
+
+
+
+
+
+
 
