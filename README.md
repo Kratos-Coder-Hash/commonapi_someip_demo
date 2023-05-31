@@ -200,5 +200,22 @@ Compile Runtime
 
 有多个选项
 
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/compile_runtime_01.png)
 
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/complie_runtime_02.png)
 
+Generator Code
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/generator_code.png)
+
+Projetct Startup
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/project_startup_01.png)
+
+Write Commonapi Configuration Files
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/write_commonapi_configuration_files.png)
+
+Logging
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/logging_01.png)
