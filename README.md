@@ -13,7 +13,11 @@
 
 说明：
 
-本demo以本机通信为主，并非双机通信，此外部分信息，被写在代码中，灵活性不足。
+本demo以本机通信为主，并非双机通信，此外部分信息，被写在代码中，灵活性不足。如下demo中，我增加了使用环境变量，加载环境变量中的数据进行修改一些基础信息
+
+https://github.com/blackbattery/SOMEIP-Demo.git
+
+
 
 #### Dependencies
 
@@ -85,7 +89,7 @@ sudo make install
 https://blog.csdn.net/du402448285/article/details/122217873
 
 ```bash
- sudo add-apt-repository ppa:openjdk-r/ppa
+sudo add-apt-repository ppa:openjdk-r/ppa
 输入你的sudo密码继续
 2. 升级系统资源包并安装openjdk1.8：
 sudo apt-get update
@@ -196,7 +200,7 @@ make
 
 **2.以下截图来自doc/commsomeip.pdf**
 
-Compile Runtime
+**Compile Runtime**
 
 有多个选项
 
@@ -204,7 +208,7 @@ Compile Runtime
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/complie_runtime_02.png)
 
-Generator Code
+**Generator Code**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/generator_code.png)
 
@@ -212,33 +216,43 @@ Projetct Startup
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/project_startup_01.png)
 
-Write Commonapi Configuration Files
+**Write Commonapi Configuration Files**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/write_commonapi_configuration_files.png)
 
-Logging
+**Logging**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/logging_01.png)
 
-Default
+**Default**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/default_01.png)
 
-Proxy
+**Proxy**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/proxy_01.png)
 
-Stub
+**Stub**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/stub_01.png)
 
-New Code Generator Command-line Paramters
+**New Code Generator Command-line Paramters**
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/New_Code_Generator_Command_line_Paramters_01.png)
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/New_Code_Generator_Command_line_Paramters_02.png)
 
+Create  Proxies And Stubs
 
+commonapi.ini
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/commonapi.png)
+
+Preliminary remarks
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/preliminary_remarks_01.png)
+
+![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/preliminary_remarks_02.png)
 
 
 
