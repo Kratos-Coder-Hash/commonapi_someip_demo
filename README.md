@@ -171,7 +171,7 @@ chmod +x ./commonapi_someip_generator/commonapi-someip-generator-linux-x86_64
 
 ```bash
 cd someip
-git clone https://github.com/lixiaolia/commonapi_someip_demo.git
+git clone https://github.com/blackbattery/commonapi_someip_demo.git
 ```
 
 生成代码：
@@ -252,11 +252,15 @@ Preliminary remarks
 
 ![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/preliminary_remarks_01.png)
 
-![](https://github.com/blackbattery/commonapi_someip_demo/raw/main/doc/preliminary_remarks_02.png)
 
 
+![](https://raw.githubusercontent.com/blackbattery/commonapi_someip_demo/main/doc/preliminary_remarks_02.png)
 
+Data Struct
 
+支持基本的数据类型，以及array,map，union等，具体案例可以参考
+
+[Commonapi-examples](https://github.com/COVESA/capicxx-core-tools/tree/master/CommonAPI-Examples)
 
 
 
